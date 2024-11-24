@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋 </h1>
 
 ![Alt text](https://github.com/vaibhavbarate22/vaibhavbarate22/blob/3bed4c2034a4c948449fa329c1cb1cb61150430d/Black%20Minimalist%20Corporate%20Business%20Profile%20LinkedIn%20Banner.png)
-<h2 align="center">A passionate aspiring cybersecurity professional</h2>
+<h2 align="center">I'm a passionate aspiring cybersecurity professional</h2>
 
 <p align="left"> <a href="https://twitter.com/cybernexus256" target="blank"><img src="https://img.shields.io/twitter/follow/cybernexus256?logo=twitter&style=for-the-badge" alt="cybernexus256" /></a> </p>
 <p align="left"> 
