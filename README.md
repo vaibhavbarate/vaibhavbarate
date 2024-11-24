@@ -53,6 +53,6 @@
 <a href="https://instagram.com/vaibhavbarate7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhavbarate7" height="30" width="40" /></a>
 </p>
 <h2 align="left">GitHub Stats:</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavbarate&show_icons=true&locale=en&layout=compact" alt="vaibhavbarate" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavbarate22&show_icons=true&locale=en&layout=compact" alt="vaibhavbarate22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavbarate&" alt="vaibhavbarate" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavbarate22&" alt="vaibhavbarate22" /></p>
